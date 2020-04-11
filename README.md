@@ -1,20 +1,13 @@
 ## OpenSlider
-OpenSlider is a modular camera slider system with multiple axis of movement.
+OpenSlider is a modular camera slider system with multiple axis of movement based on Adamslab Openslider project: https://github.com/Adamslab/OpenSlider
 
 OpenSlider is easily 3D printed, and assembled using commonly available hardware.
+I have made a few additions:
++ Two GoPro mounts
++ One Y-Axis mount directly for the camera - to make a more compact system without the Z axis. Can be used for Landscape timelapses.
 
+I have also created an ESP8266 App that allows you to control the slider using the web browser:
+https://github.com/dushyantahuja/OpenSlider-Control
 
-###### Example videos:
-
-[OpenSlider 2040 V0.2 Timelapse](https://www.instagram.com/p/Bsbb4AUHvLy/)
-
-[OpenSlider 2020 V0.1](https://www.instagram.com/p/BqFpmRJnVI0/)
-
-[OpenSlider V0.1 Timelapse](https://www.instagram.com/p/BqFVQTXnpN9/)
-
-[OpenSlider V0.1 Timelapse](https://www.instagram.com/p/BqJI3UbnU7M/)
-
-[OpenSlider V0.1 Timelapse](https://www.instagram.com/p/Bp2GQGXHDDo/)
-
-###### Interested in supporting the development of OpenSlider?
+###### Interested in supporting the development of OpenSlider (Adam's Lab)?
 [Patreon](https://www.patreon.com/adamslaboratory)
